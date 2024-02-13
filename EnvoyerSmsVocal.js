@@ -5,8 +5,8 @@ const url = 'http://api.voicepartner.fr/v1/tts/send';
 
 // Les données à envoyer en JSON
 const data = {
-    apiKey: 'v9W2BiAxN-zbsCC-1b9jWE7k-5FgkMm',
-    phoneNumbers: '0651923982',
+    apiKey: 'YOUR_API_KEY',
+    phoneNumbers: '06XXXXXXXX',
     text: 'Mon premier test'
     // ... autres paramètres si nécessaire
 };
