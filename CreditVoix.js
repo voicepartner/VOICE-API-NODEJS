@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // Replace 'YOUR_API_KEY' with your actual API key
-const apiKey = 'v9W2BiAxN-zbsCC-1b9jWE7k-5FgkMm';
+const apiKey = 'YOUR_API_KEY';
 
 // The URL of the API with the API key appended
 const url = `https://api.voicepartner.fr/v1/me/${apiKey}`;
